@@ -28,7 +28,7 @@
 - To find longest word from a string using custom code
 - To find longest common string from array of strings
 - To find vowels and its count in a given string
-- To find character occurance from the string
+- To find character occurrence from the string
 
 ## Day 5
 
